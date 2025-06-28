@@ -1,0 +1,14 @@
+# Ignore Python stuff
+*.pyc
+__pycache__/
+*.sqlite3
+
+# Ignore Node modules
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore frontend build folders
+build/
+dist/

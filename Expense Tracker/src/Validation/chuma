@@ -1,0 +1,15 @@
+.card .exp-pic {
+  max-width: 60%;
+  height: auto;
+  border-radius: 60%;
+  margin-bottom: 10px;
+  justify-content: left;
+}
+.card .inc-pic {
+  max-width: 60%;
+  height: auto;
+  border-radius: 60%;
+  margin-bottom: 10px;
+  justify-content: left;
+
+}
